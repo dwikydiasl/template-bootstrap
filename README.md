@@ -7,3 +7,5 @@ When you install Sass on the command line, you'll be able to run the sass execut
 
 ## Add new file SCSS
 if you want to add new scss, you can add on file `style` and use `_` before file name. For Example `style/_header.scss` .
+> note: after add new file SCSS, you have to declare it in the `main.scss` file as below:
+![This is an image](https://i.ibb.co/pnLg7M8/Screenshot-2022-01-10-093727.png)
